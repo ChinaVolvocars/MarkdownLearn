@@ -142,7 +142,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |---|----|-----
 |1|`[我的博客](http://www.meahu.com "悬停显示")`|[我的博客](http://www.meahu.com "悬停显示")
 |2|`[我的知乎][zhihu] `|[我的知乎][zhihu] 
-|2|`[zhihu]:http://www.meahu.com "我的知乎，欢迎关注"`|   
+|3|`[zhihu]:http://www.meahu.com "我的知乎，欢迎关注"`|[我的][我的]   
 
 语法2由两部分组成：
 - 第一部分使用两个中括号，[ ]里的标识符（本例中zhihu），可以是数字，字母等的组合，标识符上下对应就行了（**姑且称之为URL标识符**）
