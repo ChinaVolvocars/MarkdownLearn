@@ -304,7 +304,7 @@ string &operator+(const string& A,const string& B) //cpp
 | 图片 | 描述 |
 | ---- | ---- |
 |![baidu][baidu-logo] | 百度
-
+|![有道云笔记][http://note.youdao.com/images/index/f4520426.logo.png]|有道云
 表情
 ----------
 Github的Markdown语法支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情。
