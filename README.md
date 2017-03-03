@@ -140,9 +140,9 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ###链接外部URL
 |#|语法|效果|
 |---|----|-----
-|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
+|1|`[我的博客](http://www.meahu.com "悬停显示")`|[我的博客](http://www.meahu.com "悬停显示")
 |2|`[我的知乎][zhihu] `|[我的知乎][zhihu] 
-|2|`[zhihu]:https://www.zhihu.com/people/jellywong "我的知乎，欢迎关注"`|   
+|2|`[zhihu]:http://www.meahu.com "我的知乎，欢迎关注"`|   
 
 语法2由两部分组成：
 - 第一部分使用两个中括号，[ ]里的标识符（本例中zhihu），可以是数字，字母等的组合，标识符上下对应就行了（**姑且称之为URL标识符**）
@@ -314,9 +314,9 @@ Github的Markdown语法支持添加emoji表情，输入不同的符号码（两�
 具体每一个表情的符号码，可以查询GitHub的官方网页[http://www.emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com)。
 
 --------------------------------
-[csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
-[zhihu]:https://www.zhihu.com/people/jellywong "我的知乎，欢迎关注"
-[weibo]:http://weibo.com/linpiaochen
-[baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
+[csdn]:http://www.meahu.com "我的博客"
+[zhihu]:http://www.meahu.com "我的知乎，欢迎关注"
+[weibo]:http://www.meahu.com
+[baidu-logo]:http://www.meahu.com "百度logo"
 [weibo-logo]:/img/weibo.png "点击图片进入我的微博"
-[csdn-logo]:/img/csdn.png "我的CSDN博客"
+[有道云笔记-banner背景图]:https://shared-https.ydstatic.com/website/images/ynote/banner4.jpg "有道云笔记"
